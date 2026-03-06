@@ -1,6 +1,6 @@
 # Supabase Z-API Broadcast
 
-Projeto para o desafio de estágio da b2bflow.
+# Meu projeto
 
 ## O que faz
 
